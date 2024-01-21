@@ -48,6 +48,9 @@ UI_FR = {
     UI_Item_MorphinePack_Name = "Paquet de Morphine",
     UI_Item_MorphinePack_Description = "Analgésique opioïde, agoniste des récepteurs opioïdes. A un effet analgésique prononcé.",
 
+	UI_DrugGroup_Morphine_Name = "Morphine",
+	UI_DrugGroup_Morphine_Description = "Analgésique opioïde, agoniste des récepteurs opioïdes. A un effet analgésique prononcé.",
+
     UI_Item_BismuthSubsalicylatePack_Name = "Paquet de Salicylate de Bismuth",
     UI_Item_BismuthSubsalicylatePack_Description = "Remède anti-ulcéreux et antidiarrhéique. Il a un effet astringent et antiacide.",
 
@@ -112,6 +115,10 @@ UI_FR = {
     UI_DosageForm_Oral_Pill_Action = "Prendre un comprimé",
     UI_DosageForm_Inhalation_Inhaler_Name = "Inhalateur",
     UI_DosageForm_Inhalation_Inhaler_Action = "Utiliser un inhalateur",
+
+	UI_DosageForm_Parenteral_Inhaler_Name = "Inhalateur",
+	UI_DosageForm_Parenteral_Inhaler_Action = "Utiliser un inhalateur",
+
     UI_DosageForm_Parenteral_Intramuscular_Name = "Injection intramusculaire",
     UI_DosageForm_Parenteral_Intramuscular_Action = "Effectuer une injection intramusculaire",
     UI_DosageForm_Parenteral_Intravenous_Name = "Injection intraveineuse",
